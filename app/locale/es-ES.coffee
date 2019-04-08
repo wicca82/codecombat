@@ -15,7 +15,7 @@ module.exports = nativeDescription: "español (ES)", englishDescription: "Spanis
 #    century_skills_subtitle1: "Critical Thinking"
 #    century_skills_subblurb1: "With coding puzzles that are naturally scaffolded into increasingly challenging levels, CodeCombat's programming game ensures kids are always practicing critical thinking."
 #    century_skills_quote2: "Everyone else was making mazes, so I thought, ‘capture the flag’ and that’s what I did."
-#    century_skills_subtitle2: "Creativity"
+#    century_skills_subtitle2: "Creatividad"
 #    century_skills_subblurb2: "CodeCombat encourages students to showcase their creativity by building and sharing their own games and webpages."
 #    century_skills_quote3: "If I got stuck on a level. I would work with people around me until we were all able to figure it out."
 #    century_skills_subtitle3: "Collaboration"
