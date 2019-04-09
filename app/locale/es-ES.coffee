@@ -1,13 +1,13 @@
 module.exports = nativeDescription: "español (ES)", englishDescription: "Spanish (Spain)", translation:
 
   new_home:
-#    built_for_teachers_title: "A Coding Game Built with Teachers in Mind"
-#    built_for_teachers_blurb: "Teaching kids to code can often feel overwhelming. CodeCombat helps all educators teach students how to code in either JavaScript or Python, two of the most popular programming languages. With a comprehensive curriculum that includes six computer science units and reinforces learning through project-based game development and web development units, kids will progress on a journey from basic syntax to recursion!"
-#    built_for_teachers_subtitle1: "Computer Science"
-#    built_for_teachers_subblurb1: "Starting with our free Introduction to Computer Science course, students master core coding concepts such as while/for loops, functions, and algorithms."
-#    built_for_teachers_subtitle2: "Game Development"
+#    built_for_teachers_title: "Un juego de codificación hecho pensando en los profesores"
+#    built_for_teachers_blurb: "Enseñar a los niños a codificar a menudo puede ser abrumador.CodeCombat ayuda a los educadores a enseñar a los estudiantes como codificar ya sea en JavaScript o Python, dos de los más populares lenguajes de programación. Con un plan de estudios integral que incluye seis unidades de ciencias de la computación y refuerza el aprendizaje a través de proyectos basados en desarrollos de jueogs y unidades sobre desarrollo web,los alumnos irán progresando en un viaje desde la sintaxis básica hasta la recursividad!"
+#    built_for_teachers_subtitle1: "Ciencias de la computación"
+#    built_for_teachers_subblurb1: "Empezando con nuestro curso gratuito de Introducción a las ciencias de la computación,los estudiantes dominarán los conceptos básicos de codificación como los bucles while/for,las funciones y los algoritmos."
+#    built_for_teachers_subtitle2: "Desarrollo de juegos"
 #    built_for_teachers_subblurb2: "Learners construct mazes and use basic input handling to code their own games that can be shared with friends and family."
-#    built_for_teachers_subtitle3: "Web Development"
+#    built_for_teachers_subtitle3: "Desarrollo Web"
 #    built_for_teachers_subblurb3: "Using HTML, CSS, and jQuery, learners flex their creative muscles to program their own webpages with a custom URL to share with their classmates."
 #    century_skills_title: "21st Century Skills"
 #    century_skills_blurb1: "Students Don't Just Level Up Their Hero, They Level Up Themselves"
